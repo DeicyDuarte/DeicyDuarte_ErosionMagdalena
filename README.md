@@ -1,3 +1,6 @@
+
+<img width="1024" height="377" alt="image" src="https://github.com/user-attachments/assets/d8e5c9f3-5180-4d72-8026-2afc19781db3" />
+
 Predicción del ancho del canal del río Magdalena en Puerto Wilches, Santander
 Autor: Deicy Duarte
 Código: 2258392
